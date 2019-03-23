@@ -1,0 +1,1 @@
+"Noverlaps", an application developed in Python, for the maintenance and allotment of gates in an airport, which uses Largest Degree First algorithm in Graph Theory for colouring the vertices (gates) of the constructed graph efficiently in order to produce an optimal solution.
